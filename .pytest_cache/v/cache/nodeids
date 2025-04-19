@@ -1,0 +1,10 @@
+[
+  "tests/test_credit_system.py::TestCreditSystem::test_increment_and_decrement_score",
+  "tests/test_credit_system.py::TestCreditSystem::test_update_and_get_credit_score",
+  "tests/test_keycode_manager.py::TestKeycodeManager::test_generate_and_redeem_keycode",
+  "tests/test_loan_manager.py::TestLoanManager::test_accept_loan",
+  "tests/test_loan_manager.py::TestLoanManager::test_get_loan_status",
+  "tests/test_loan_manager.py::TestLoanManager::test_mark_loan",
+  "tests/test_loan_manager.py::TestLoanManager::test_request_and_list_loans",
+  "tests/test_utils.py::TestUtils::test_placeholder"
+]
